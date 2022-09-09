@@ -1,5 +1,34 @@
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+header#header {
+  text-align: center;
+}
+figure {
+  text-align: center;
+}
+
+nav > a {
+  padding: 10px;
+  background-color: lavender;
+}
+
+figcaption {
+  font-size: small;
+}
+
+section#featured-property p{
+  margin: auto;
+  text-align: center;
+  width: 800px;
+}
+div {
+  float:left;
+  width: 25%;
+  text-align: center;
+  background-color: lavender;
 }
